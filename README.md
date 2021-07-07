@@ -19,3 +19,10 @@ The purpose of the project is to design and implement a Desktop Application usin
 6. MySQL database is used to operate on the data.
 7. K-means Clustering is applied to customers database which locates the states from where major number of customers visit. This algorithm find patterns amongst the cities and list down top States from where maximum number of customers are visting.
 8. This will be helpful in many ways such as implementing new marketing and advertising strategies, opening a franchise and revising hotel rooms price.
+
+## Images
+![](images/main.jpg)
+![](images/checkIn.jpg)
+![](images/checkOut.jpg)
+![](images/clusters.jpg)
+![](images/clustering.jpg)
