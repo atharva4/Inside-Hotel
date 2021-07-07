@@ -16,7 +16,7 @@ import pymysql
 import numpy as np
 import matplotlib.pyplot as plt
 
-mycon=mysqLtor.connect(user='root',passwd='atharva2000',host='localhost',charset='utf8',use_pure=True)
+mycon=mysqLtor.connect(user='root',passwd='',host='localhost',charset='utf8',use_pure=True)
 cursor=mycon.cursor()
 #cursor.execute("DROP DATABASE hotel3")
 cursor.execute("CREATE DATABASE IF NOT EXISTS hotel3")
